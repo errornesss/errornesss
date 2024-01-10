@@ -1,1 +1,1 @@
-![wp](wp.png)
+![wp](wp.jpg)
